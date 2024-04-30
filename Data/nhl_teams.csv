@@ -1,0 +1,33 @@
+Conference,Division,Team,Market,Division Rank,Conference Rank,Clinched Status,Wildcard Rank,Overall Rank
+EASTERN CONFERENCE,Atlantic,Panthers,Florida,1,3,division,,6
+EASTERN CONFERENCE,Atlantic,Bruins,Boston,2,4,playoff_spot,,7
+EASTERN CONFERENCE,Atlantic,Maple Leafs,Toronto,3,5,playoff_spot,,8
+EASTERN CONFERENCE,Atlantic,Lightning,Tampa Bay,4,6,playoff_spot,1,11
+EASTERN CONFERENCE,Atlantic,Red Wings,Detroit,5,9,eliminated,3,16
+EASTERN CONFERENCE,Atlantic,Sabres,Buffalo,6,12,eliminated,6,21
+EASTERN CONFERENCE,Atlantic,Senators,Ottawa,7,14,eliminated,8,26
+EASTERN CONFERENCE,Atlantic,Canadiens,Montreal,8,15,eliminated,9,28
+EASTERN CONFERENCE,Metropolitan,Rangers,New York,1,1,presidents_trophy,,3
+EASTERN CONFERENCE,Metropolitan,Hurricanes,Carolina,2,2,playoff_spot,,1
+EASTERN CONFERENCE,Metropolitan,Islanders,New York,3,7,playoff_spot,,14
+EASTERN CONFERENCE,Metropolitan,Capitals,Washington,4,8,playoff_spot,2,19
+EASTERN CONFERENCE,Metropolitan,Penguins,Pittsburgh,5,10,eliminated,4,17
+EASTERN CONFERENCE,Metropolitan,Flyers,Philadelphia,6,11,eliminated,5,27
+EASTERN CONFERENCE,Metropolitan,Devils,New Jersey,7,13,eliminated,7,25
+EASTERN CONFERENCE,Metropolitan,Blue Jackets,Columbus,8,16,eliminated,10,29
+WESTERN CONFERENCE,Central,Stars,Dallas,1,1,conference,,1
+WESTERN CONFERENCE,Central,Jets,Winnipeg,2,2,playoff_spot,,4
+WESTERN CONFERENCE,Central,Avalanche,Colorado,3,4,playoff_spot,,12
+WESTERN CONFERENCE,Central,Predators,Nashville,4,6,playoff_spot,1,13
+WESTERN CONFERENCE,Central,Blues,St. Louis,5,9,eliminated,3,18
+WESTERN CONFERENCE,Central,Wild,Minnesota,6,10,eliminated,4,20
+WESTERN CONFERENCE,Central,Coyotes,Arizona,7,13,eliminated,7,23
+WESTERN CONFERENCE,Central,Blackhawks,Chicago,8,15,eliminated,9,31
+WESTERN CONFERENCE,Pacific,Canucks,Vancouver,1,3,division,,9
+WESTERN CONFERENCE,Pacific,Oilers,Edmonton,2,5,playoff_spot,,5
+WESTERN CONFERENCE,Pacific,Kings,Los Angeles,3,7,playoff_spot,,15
+WESTERN CONFERENCE,Pacific,Golden Knights,Vegas,4,8,playoff_spot,2,10
+WESTERN CONFERENCE,Pacific,Flames,Calgary,5,11,eliminated,5,22
+WESTERN CONFERENCE,Pacific,Kraken,Seattle,6,12,eliminated,6,24
+WESTERN CONFERENCE,Pacific,Ducks,Anaheim,7,14,eliminated,8,30
+WESTERN CONFERENCE,Pacific,Sharks,San Jose,8,16,eliminated,10,32
