@@ -1,17 +1,17 @@
 Team_1,Team_2,Team_1_Score,Team_2_Score,Team_1_Rank,Team_2_Rank
-Philadelphia Flyers,Calgary Flames,3,2
-Colorado Avalanche,Florida Panthers,4,8
-Montreal Canadiens,New York Rangers,4,3
-New Jersey Devils,Vancouver Canucks,4,6
-San Jose Sharks,Toronto Maple Leafs,1,4
-Columbus Blue Jackets,Minnesota Wild,3,4
-Boston Bruins,Tampa Bay Lightning,7,3
-Pittsburgh Penguins,Buffalo Sabres,1,3
-Dallas Stars,Nashville Predators,3,4
-Carolina Hurricanes,St. Louis Blues,1,2
-Edmonton Oilers,Ottawa Senators,3,1
-Vegas Golden Knights,New York Islanders,5,2
-Pittsburgh Penguins,New York Rangers,5,2,
-Seattle Kraken,San Jose Sharks,4,2,
-Colorado Avalanche,Columbus Blue Jackets,1,4
-New York Islanders,Philadelphia Flyers,4,3
+Flyers,Flames,3,2,27,22
+Avalanche,Panthers,4,8,12,6
+Canadiens,Rangers,4,3,28,3
+Devils,Canucks,4,6,25,9
+Sharks,Maple Leafs,1,4,32,8
+Blue Jackets,Wild,3,4,29,20
+Bruins,Lightning,7,3,7,11
+Penguins,Sabres,1,3,17,21
+Stars,Predators,3,4,1,13
+Hurricanes,Blues,1,2,2,18
+Oilers,Senators,3,1,5,26
+Golden Knights,Islanders,5,2,10,14
+Penguins,Rangers,5,2,17,3
+Kraken,Sharks,4,2,24,32
+Avalanche,Blue Jackets,1,4,12,29
+Islanders,Flyers,4,3,14,27
